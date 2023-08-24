@@ -1,36 +1,18 @@
-# PROJECT NAME : IRIS FLOWER CLASSIFICATION:
+# TASK_03_Sales_Prediction_Using_PYTHON_ML
 
-The iris dataset contains three classes of flowers namely:
- 
 
-1.   Iris-versicolor
-2.   Iris-Setosa
-3.   Iris-Virginica
 
-And each class contains 4 features, **'Sepal length', 'Sepal width', 'Petal length', 'Petal width'**. 
+Sales prediction means predicting how much of a product people will buy based on factors
+such as the amount you spend to advertise your product, the segment of people you
+advertise for, or the platform you are advertising on about your product.
 
-The **aim of the iris flower classification** is **to predict flowers based on their specific features.**
 
-**PROCEDURE:**
 
-STEP 1: Load the necessary libraries
+Typically, a product and service-based business always need their Data Scientist to predict
+their future sales with every step they take to manipulate the cost of advertising their
+product. so this task will accomplish the above said requirement using python machine learning techniques.
 
-STEP 2: Import the Data set
 
-STEP 3: Analyze and visualize the dataset
+**Data Set Link:** https://github.com/namankabadi/TASK_03_Sales_Prediction_Using_PYTHON_ML/blob/main/Advertising.csv
 
-STEP 4: Model Training
-
-STEP 5: Model Evaluation
-
-STEP 6: Model Testing
-
-STEP 7: Predicting the result
-
-STEP 8: Estimating the accuracy of the model for different algorithm.
-
-**Dataset Used:**
-https://github.com/namankabadi/IrisFlowerClassification/blob/main/Iris.csv**
-
-**Project Link:** 
-https://colab.research.google.com/drive/1nsHiIgWD06TAhsfK6NoQogvhBV5rD30t?usp=sharing
+**Project Link :**  https://colab.research.google.com/drive/1b_kEqyRnEBEfFqLoT2LNZlZSh3hbSABg?usp=sharing
