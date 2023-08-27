@@ -69,7 +69,7 @@ product. So let's start the task of sales prediction with machine learning using
 
 **Dataset Link:** https://github.com/namankabadi/TASK_02_Email_Spam_Classification/blob/main/spam.csv
 
-**Project Github Link:** https://colab.research.google.com/drive/1b_kEqyRnEBEfFqLoT2LNZlZSh3hbSABg?usp=sharing
+**Project Link:** https://colab.research.google.com/drive/1b_kEqyRnEBEfFqLoT2LNZlZSh3hbSABg?usp=sharing
 
 
 
